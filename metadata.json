@@ -1,0 +1,8 @@
+{
+  "name": "Fashion Designer",
+  "description": "Minimalist monochrome portfolio template for a fashion designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
